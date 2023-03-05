@@ -1,1 +1,2 @@
-As a fellow Machine Learning and data analytics enthusiast, my Python projects are saved here
+# Amazon Web Scraper - Only Electronics
+With function callouts from one module to another
