@@ -40,6 +40,7 @@ variables with set values that will change on a certain condition
    - detection_stopped_time will be recorded everytime detection stops 
      for saving the mp4 file with the date and time name
 """
+# code by Abir Dey
 
 detection = False
 detection_stopped_time = None
